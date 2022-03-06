@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<aiml>
+  <category>
+    <pattern>*</pattern>
+    <template>I have no answer for that.</template>
+  </category>
+  
+  <category>
+      <pattern>salut</pattern>
+      <template>
+          <random>
+              <li>Noroc, nepoate!</li>
+              <li>Sa traiesti, nepoate!</li>
+              <li>NEPOT'</li>
+          </random>
+      </template>
+  </category>
+  <category>
+      <pattern>sfat</pattern>
+      <template>
+          <random>
+              <li>Nu oferi niciodata a doua sansa, e ca si cum ai oferi un al doilea glont dupa ce a ratat</li>
+              <li>Sa n-ai incredere in nimeni, si sarea seamana cu zaharul</li>
+              <li>Nu dezvalui niciodata secretele cuiva</li>
+              <li>Ce se intampla intr-un grup, ramane in acel grup</li>
+              <li>Sa nu spui niciodata minciuni</li>
+              <li>Daca un prieten iti spune sa stergi o poza, sterge-o!</li>
+              <li>Biblia spune ca iubirea nu da gres, deci daca nu a mers, inseamna ca nu a fost iubire</li>
+              <li>Nu vorbi niciodata de planuri in fata celui ce nu a fost invitat</li>
+              <li>Dumnezeu scoate oamenii din viata ta deoare a auzit conversatii pe care tu nu le-ai auzit</li>
+              <li>Indiferent cat de mult urasti pe cineva, nu dezgropa trecutul</li>
+              <li>Niciodata sa nu iesi la intalnire cu fosta iubire a prietenului tau</li>
+              <li>Daca e a 3-a oara cand imprumuti ceva, e timpul sa iti cumperi si tu</li>
+              <li>Niciodata sa nu fortezi pe cineva sa fie religios</li>
+              <li>O femeie frumoasa, nu inseamna o inima frumoasa</li>
+              <li>Daca gheata nu pluteste in bautura ta, atunci nu o bea!</li>
+              <li>Fa pace cu trecutul ca sa nu iti deranjeze prezentul</li>
+              <li>Nu-ti face griji pentru ce nu poti controla</li>
+              <li>Nu oferi respect celui ce nu l-a castigat</li>
+              <li>Fii mereu politicos</li>
+              <li>Daca cineva se uita la tine si zambeste, zambeste-i si tu</li>
+              <li>Traieste asa cum vrei tu, nu cum vor altii</li>
+              <li>Nu te indragosti de amici, vei pierde si realtia si prietenia</li>
+          </random>
+      </template>
+  </category>
+  <category>
+      <pattern>Ce faci</pattern>
+      <template>Beau</template>
+  </category>
+  <category>
+      <pattern>Cat ai baut</pattern>
+      <template>In viata ca sa nu sufar, eu beau bere fara numar</template>
+  </category>
+  <category>
+      <pattern>Pa Fane</pattern>
+      <template>Sanatate, Nepot'!</template>
+  </category>
+</aiml>
